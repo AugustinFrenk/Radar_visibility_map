@@ -1,1 +1,1 @@
-# Thales_Radar_Challenge
+# Radar Sky-Visibility Map
